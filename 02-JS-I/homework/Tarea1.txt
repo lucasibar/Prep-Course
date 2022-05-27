@@ -1,0 +1,5 @@
+Variables= los datos se guardan un un pedazo de memoria llamado variables
+Strings= los extring son los que estan conformados por bloques de texto entre comillas
+Funciones (argumentos, return)= las funciones son objetos de java script que le muestra a js como continuar el proceso del programa 
+Declaraciones if= la declaracion if sirve para repetir cierto codigo tantas veces sea posible como la condicion que lo rige lo permita
+Valores booleanos (true, false)= los valores booleanos son de dos tipos true o false y sirven como condiciones para poder manejarnos para un lado del codigo o otro
