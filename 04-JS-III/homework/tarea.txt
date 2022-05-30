@@ -1,0 +1,3 @@
+Arrays: los arrays son un conjunto de datos ordenados. Se van guardando en el array distintos datos a los que
+se le asigna un número de índice a cada uno. luego con este numero de indice puede invocarse los datos en esa
+posicion en el array.

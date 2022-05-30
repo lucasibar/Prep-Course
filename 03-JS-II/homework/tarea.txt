@@ -1,0 +1,6 @@
+`for`: se utiliza para generar reiteraciones en un código. con un for lo que se hace es poder realizar cierto
+codigo tantas veces se puede repetir teniendo en cuenta una condicion que se le asigna al 'for'. también
+hay que asignarle un factor de cambio sino se generaria un bucle infinito.
+
+`&&`, `||`, `!`: estos operadores sirven para agregar información cuando se hacen comparaciones. El &&
+es como escribir "y", || como si fuera "o" y ! para afirmar lo contrario.

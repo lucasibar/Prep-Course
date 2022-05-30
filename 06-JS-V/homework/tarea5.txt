@@ -1,0 +1,9 @@
+`prototype`: hay funciones que directamente afectan a la clase de un objeto. aunque no esten implicitas 
+y escritas en el codigo de cada objeto que pertenece a la clase, al estar en el prototipo de la
+clase del objeto, este y todos los objetos de esa misma clase quedan afectadas por lo que se escriba en
+este prototipo, por ejemplo una funcion.
+
+ _Constructors_ (de Clases):las funciones constructroras se utilizan para generar un especie de plantilla
+ en la que se van a basar los objeto que pertenezcan a una misma clase. Hay distintas maneras
+ de expresarlos en codigo. En una de estas se presentan los _constructors_ que son las distintas propiedades
+ que luego van a tener los objetos de esa clase.

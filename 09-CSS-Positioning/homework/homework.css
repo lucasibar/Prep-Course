@@ -1,5 +1,6 @@
 /*
-Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en este archivo, por lo que si estás tocando cualquier otro
+Lección 3: Tarea de posicionamiento con CSS. Todo el trabajo debe hacerse en este archivo, por lo que 
+//si estás tocando cualquier otro
 archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 */
 
@@ -7,7 +8,8 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
-
+    display: block;
+    text-align: center;
 }
 
 
@@ -15,24 +17,66 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 /* Acá va tu código */
 
-
+#ejercicioDos{
+    display: none;
+}
 
 /* Ejercicio 3: */
 
 /* Acá va tu código */
+#ejercicioTres{
+    position: relative;
+    left: 200px;
+    top: 100px;
 
+}
 
 
 /* Ejercicio 4: */
 
 /* Acá va tu código */
 
+#ejercicioCuatro{
+    position: fixed;
+    left: 0;
+    top: 0;
 
+}
 
 /* Ejercicio 5: */
 
 /* Acá va tu código */
-
+#ejercicioCinco{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-direction: row-reverse;
+}
 
 
 /* Ejercicio 6. */
+#ejercicioSiete{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+#elementoTres{
+    display: flex;
+    justify-content: space-between;
+}
+#elementoCuatro{
+    display: flex;
+    
+    align-items: center;
+}
+#elementoDos{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+#elementoUno{
+        position: absolute;
+        left: 0;
+        bottom: 0;
+    }

@@ -1,0 +1,14 @@
+Objetos: Es muy parecido a un arrray. En este tipo de contenedores los datos no estan ligados a un indice 
+numerico como en los arrays. Los objetos estan cmpuestos por propiedades que tinen una clave y un valor 
+para cada clave. para invocar alguna propiedad del objeto es igual que en las matrices nada mas que se usan
+las palabras claves en vez del numero de indice. 
+
+Propiedades: las propiedades son los distintos datos que contiene el objeto. Estos se componene de una palabra
+clave, que no se puede repetir en otra propiedad y valores asignados a las palabras clave.
+
+Métodos: los metodos son funcionesque se pasan como valor de alguna de las propiedades del objeto
+
+Bucle `for…in`: este tipo de bucle itera sobre las distintas claves en un objeto
+
+Notación de puntos vs notación de corchetes: la diferencia que hay entre estas dos notaciones es que cuando
+es notacion por puntos la clave que se llama se toma como un string ignorando cualquier variable que exista.

@@ -1,0 +1,2 @@
+Las funciones callbacks son funciones que toman otras funciones como argumento. entonces en la funcion principal
+se carga otra funcion que retorna algo dentro de la funcion principal la cual a su vez retorna otro dato.
