@@ -1,5 +1,3 @@
-// No cambies los nombres de las funciones.
-
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
@@ -227,14 +225,6 @@ function doWhile(numero) {
   // recibido en 5 hasta un límite de 8 veces
   //Retornar el valor final.
   //Usar el bucle do ... while.
-  let num = numero 
-  let i = 0
-  
-  do{
-    i = i++
-    num = num+5
-  }while (i<8)
-  return num
 }
 
 
