@@ -26,7 +26,7 @@ function searchEmail(str) {
   var re = /(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))/;
   return re.exec(str);
 }
-function getEmail(PATHasdffglkjnxdfglknxfzb) {
+function getEmail(PATH) {
 	try {
 		const email = searchEmail(fs
 			.readFileSync(PATH)
